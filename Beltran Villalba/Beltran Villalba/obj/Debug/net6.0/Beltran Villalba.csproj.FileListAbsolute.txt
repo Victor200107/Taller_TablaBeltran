@@ -1,0 +1,67 @@
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\appsettings.json
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Beltran Villalba.exe
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Beltran Villalba.deps.json
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Beltran Villalba.runtimeconfig.json
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Beltran Villalba.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Beltran Villalba.pdb
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.csproj.AssemblyReference.cache
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.AssemblyInfoInputs.cache
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.AssemblyInfo.cs
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.csproj.CoreCompileInputs.cache
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\staticwebassets\msbuild.Beltran Villalba.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\staticwebassets\msbuild.build.Beltran Villalba.props
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Beltran Villalba.props
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Beltran Villalba.props
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\scopedcss\bundle\Beltran Villalba.styles.css
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.csproj.CopyComplete
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\refint\Beltran Villalba.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.pdb
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\Beltran Villalba.genruntimeconfig.cache
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\obj\Debug\net6.0\ref\Beltran Villalba.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vfbv0\OneDrive\Documents\TallerTablas\Beltran Villalba\Beltran Villalba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
